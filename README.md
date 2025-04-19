@@ -28,19 +28,11 @@ A successful run requires the robot to complete the maze, obey signs, and smooth
   - mBot2 Neo robot  
   - CyberPi board & USB cable  
 - **Software**:  
-  - Python 3.7+  
-  - Dependencies (install via `pip install -r requirements.txt`):  
-    ```
-    cyberpi
-    mbot2
-    mbuild
-    opencv-python        # if used for sign detection
-    numpy
-    ```
+  - mBlock
 
 ## 🚀 Installation
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your‑username/your‑repo.git
+   git clone https://github.com/quangdong26/PAR_A3.git
    cd your‑repo
